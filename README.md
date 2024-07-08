@@ -49,7 +49,7 @@
 
 # 📊 GitHub Stats:
 
-<img align = "right" style="position:absolute;" alt = "coding" width = "200" src = "https://pin.it/1bgq2SYbY"> 
+<img align = "right" style="position:absolute;" alt = "coding" width = "200" src = "https://github.com/yashjoshi5328/yashjoshi5328/assets/121224573/fa523aea-2688-4928-920a-735e6775d362"> 
 
 ![](https://github-readme-stats.vercel.app/api?username=yashjoshi5328&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashjoshi5328&theme=blue_navy&hide_border=false)<br/>
