@@ -13,7 +13,7 @@
 
 - 🤝 How to reach me : yashjoshi5328@gmail.com<br>
 
-- 🌱 Currently Learning Full-Stack Web Development and Blockchain technology<br>
+- 🌱 Currently Learning Full-Stack Web Development and cool technologies<br>
 
 - 💬 Ask me about Full-Stack Web Development, Blockchain, and Problem Solving.<br>
 
